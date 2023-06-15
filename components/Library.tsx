@@ -6,7 +6,7 @@ const Library = () => {
 	};
 	return (
 		<div className='flex flex-col'>
-		// icon + text, plus icon
+			{/* icon + text, plus icon */}
 			<div className="flex items-center justify-between px-5 pt-4">
 				{/* icon and text */}
 				<div className="inline-flex items-center gap-x-2">
